@@ -1,5 +1,5 @@
 # Lightning-RPC Terminal
-A simple webpage to demonstrate how to connect with your lightning node, using sparko and websockets.
+A simple webpage to demonstrate how to connect with your clightning node, using sparko and websockets.
 
 ## How to use
 > *Note: Make sure you have nodejs installed, with either yarn or npm.*
